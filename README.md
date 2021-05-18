@@ -2,6 +2,8 @@
 
 Modular status bar for dwm.
 
+![image](./image.png)
+
 ## docker
 
 Displays running docker containers
